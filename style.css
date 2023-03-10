@@ -1,0 +1,454 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+}
+
+body {
+    background-color: #616161;
+   /*background-color: #9D507A;*/
+    width: 100%;
+    overflow: hidden;
+}
+.header-wrapper {
+    width: 100%;
+    
+    padding: 40px;
+    
+    background-color: #D9D9D9;
+}
+.circle {
+    
+    position: absolute;
+    width: 65px;
+    height: 58px;
+    left: 5px;
+    top: 10px;
+    border-radius: 50%;
+    background: #E4965D;
+    
+
+}
+#image {
+    position: absolute;
+    left: 3px;
+    top: 4px;
+    border-radius: 50%;
+    width: 60px;
+    height: 50px;
+
+}
+p {
+    
+    font-family: 'Nunito', sans-serif;
+}
+.home {
+    
+
+    position: absolute;
+width: 125px;
+height: 22px;
+left: 1010px;
+top: 24px;
+
+background: #E4965D;
+border-radius: 24px;
+text-align: center;
+
+}
+/*hover part*/
+.doctor a:hover, .patients a:hover {
+background-color: #000000;
+color: white;
+}
+.home a:hover , .account a:hover{
+    color: white;
+}
+.account {
+    
+
+
+    position: absolute;
+width: 130px;
+height: 22px;
+left: 1196px;
+top: 24px;
+
+background: #E4965D;
+border-radius: 24px;
+text-align: center;
+
+}
+.one {
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    left: 450px;
+    top: 135px;
+    
+    background: white;
+    border-radius: 24px;
+    
+}
+#care {
+    position: absolute;
+    left: 150px;
+    top: 10px;
+    font-weight: bolder;
+    color: #FF7008;
+}
+.two {
+    position: absolute;
+    width: 400px;
+    height: 25px;
+    left: 500px;
+    top: 190px;
+    
+    background: white;
+    border-radius: 24px;
+    text-align: center;
+}
+.three {
+    position: absolute;
+    width: 100%;
+    height: 11px;
+    left: 0px;
+    top: 280px;
+    
+    background: white;
+}
+.doctor {
+    position: absolute;
+    width: 209px;
+    height: 53px;
+    left: 620px;
+    top: 350px;
+    
+    background: white;
+    border-radius: 24px;
+    text-align: center;
+    
+}
+#doc {
+   margin-top: 17px; 
+   size: 50px;
+}
+.patients {
+    position: absolute;
+    width: 209px;
+    height: 53px;
+    left: 620px;
+    top: 450px;
+    
+    background: white;
+    border-radius: 24px;
+    text-align: center;
+}
+#patients {
+    margin-top: 18px; 
+}
+#logo {position: absolute;
+    width: 65px;
+    height: 58px;
+    left: 9px;
+    top: 18px;
+    
+}
+/*design for register*/
+a {
+    text-decoration: none;
+}
+
+
+#create {
+    
+    width: 213px;
+    height: 36px;
+    left: 610px;
+    top: 95px;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+    
+}
+.beauty {
+   
+    /*display:flex;
+      justify-content: center;*/
+      position: absolute;
+      height: 24px;
+      font-family: 'Nunito', sans-serif;
+      font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+
+color: white;
+    }
+    
+#user {
+    
+width: 99px;
+
+left: 320px;
+top: 155px;
+
+
+
+}
+#phone {
+  
+width: 138px;
+
+left: 320px;
+top: 220px;
+
+
+
+}
+#email {
+   
+width: 50px;
+
+left: 320px;
+top: 300px;
+
+
+}
+#month {
+   
+width: 102px;
+height: 48px;
+left: 320px;
+top: 365px;
+
+
+}
+#address {
+   
+width: 76px;
+
+left: 320px;
+top: 447px;
+
+
+
+}
+#doctor {
+    
+    width: 85px;
+    
+    left: 800px;
+    top: 152px;
+    
+    
+}
+#age {
+    
+    width: 36px;
+    
+    left: 800px;
+    top: 230px;
+    
+    
+    
+}
+#pass {
+    
+    width: 92px;
+   
+    left: 800px;
+    top: 380px;
+    
+    
+}
+#passd {
+    
+    width: 92px;
+  
+    left: 800px;
+    top: 230px;
+    
+    
+}
+#hospital {
+    width: 133px;
+    left: 800px;
+    top: 312px;
+}
+.danat {
+    position: absolute;
+    width: 177px;
+    height: 41px;
+    background:white;
+border-radius: 20px;
+}
+#box1 {   
+left: 430px;
+top: 146px;
+}
+#box2 {   
+left: 430px;
+top: 219px;
+}
+#box3 {
+    
+left: 430px;
+top: 292px;
+}
+#box4 {  
+left: 430px;
+top: 365px;
+}
+#box5 {    
+left: 430px;
+top: 438px;
+}
+#box6 {   
+left: 900px;
+top: 301px;
+}
+#box7 {    
+left: 900px;
+top: 146px;
+}
+#box8 {
+    
+left: 900px;
+top: 219px;
+}
+#box9 {   
+left: 900px;
+top: 376px;
+}
+#submit {position: absolute;
+width: 177px;
+height: 41px;
+left: 670px;
+top: 500px;
+background: #E4965D;
+border-radius: 20px}
+::placeholder {
+    text-align: center;
+}
+#already {
+position: absolute;
+left: 670px;
+top: 545px;
+
+font-size: small;
+}
+a:hover {
+    color: black;
+}
+
+/*design for log in page*/
+.main {
+    
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: white;
+    
+}
+#name {
+    position: absolute;  
+width: 149px;
+height: 36px;
+left: 450px;
+top: 200px;
+
+
+}
+#passlogin {
+    position: absolute;  
+width: 138px;
+height: 36px;
+left: 450px;
+top: 338px;
+
+
+
+}
+#text {
+    position: absolute;  
+width: 288px;
+height: 89px;
+left: 600px;
+top: 174px;
+
+background: white;
+border-radius: 15px;
+}
+#password {
+    position: absolute;
+width: 288px;
+height: 89px;
+left: 600px;
+top: 311px;
+
+background: white;
+border-radius: 15px;
+}
+#login {
+    position: absolute;
+width: 188px;
+height: 58px;
+left: 600px;
+top: 430px;
+
+background: #E4965D;
+border-radius: 30px;
+}
+/* design for upload page*/
+
+#parg {
+    position: absolute;
+width: 271px;
+height: 45px;
+left: 550px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: black;
+
+}
+#photo {
+    position: absolute;
+width: 324px;
+height: 203px;
+left: 550px;
+top: 270px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+#here {
+   position: absolute;
+   top: 80px;
+    left: 110px;
+}
+#send {
+    position: absolute;
+width: 177px;
+height: 41px;
+left: 550px;
+top: 490px;
+
+background: #E4965D;
+border-radius: 20px;
+}
