@@ -1,4 +1,4 @@
-# project
+# Google Solution Challenge project
 ## Med Track
 
 Med track is a web application that is used for pregnant mothers in order to track the health and development of a child. 
