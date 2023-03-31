@@ -9,5 +9,5 @@ The main services include giving advice for each and particular month of pregnan
 if necessary, through calls or video, to get a prescription. This application can help people who cannot remember their appointment date and do not know what kinds of
 care should be taken during pregnancy too. In addition to this, there is a card called the MCP card (mother and child protection card) which can be used as a
 counseling tool, for tracking mother and child, and for educating them about health, nutrition, and child development. This useful card is given to mothers as hardcopy.
-That can be easily damaged or lost. In order to solve this, we have given access to get their MCP card in our portal for mothers at any time. To build the application
+That can be easily damage or lose. In order to solve this, we have given access to get their MCP card in our portal for mothers at any time. To build the application
 we are using HTML, CSS, JAVASCRIPT, REACT, and FIREBASE.
