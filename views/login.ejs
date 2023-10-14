@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    <link rel="stylesheet" href="style.css">
+    <title>login page</title>
+    <link rel="stylesheet" type="text/css"  href="/public/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">
@@ -15,23 +15,32 @@
     <div class="header-wrapper">
         <div class="circle">
             <img src="mom.jpg" alt="" id="image">
-        </div class="top">
+        </div>
         <div class="home">
-<p id="home"><a href="index.html" target="blank">Home</a></p>
+
+            <p id="home"><a href="/index" target="blank">Home</a></p>
         </div>
         <div class="account">
             <p id="account">
-                <a href="index.html" target="_blank"> Create Account</a>
+                <a href="/index" target="_blank"> Create account</a>
             </p>
         </div>
 
     </div>
     <!--main part-->
-    <p id="parg">We Care For You</p>
-    <div id="photo">
-        <p id="here">Upload here</p>
+    <div class="main">
         
+            <form action="">
+                <label for="username" id="name">User Name:</label>
+                <input type="text" id="text">
+                <label for="password" id="passlogin">Password:</label>
+                <input type="password" id= "password">
+                <button id="login">LOG IN</button>
+            </form>
+
+        
+    
+
     </div>
-    <button id="send">Send</button>
-</body>
+    </body>
 </html>
